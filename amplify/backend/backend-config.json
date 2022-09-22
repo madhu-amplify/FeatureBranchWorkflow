@@ -1,0 +1,10 @@
+{
+  "function": {
+    "nextunicorn5496ad5f": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda",
+      "dependsOn": []
+    }
+  }
+}
